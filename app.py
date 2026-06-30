@@ -4,7 +4,7 @@ import yfinance as yf
 import streamlit as st
 import matplotlib.pyplot as plt
 
-from keras.models import load_model
+ffrom tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 
 st.set_page_config(
