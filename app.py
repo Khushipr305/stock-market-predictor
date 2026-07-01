@@ -61,7 +61,7 @@ st.write("Predict stock prices using Deep Learning (LSTM Model).")
 st.divider()
 
 
-stock =st.text_input('Enter Stock Symbol', 'GOOG').upper()
+stock =st.text_input('Enter Stock Symbol', 'TATASTEEL.NS').upper()
 start = '2016-06-30'
 end = '2026-06-30'
 
